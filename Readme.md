@@ -12,3 +12,4 @@ This example illustrates how to filter drop-down items of one lookup editor bas
 <br/>
 
 
+![Cascading lookup edit](cascading_lookup_edit.png)
